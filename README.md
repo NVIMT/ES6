@@ -13,4 +13,4 @@ If npm run compile runs, you don't have to change anything.
 To execute the code:
 
 1) Go to the lib folder.
-2) Execute: node person.js
+2) Execute: node app.js

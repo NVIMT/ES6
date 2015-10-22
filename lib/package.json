@@ -1,8 +1,8 @@
 {
-  "name": "person",
+  "name": "app",
   "version": "0.1.0",
   "scripts": {
-    "start": "node person.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "core-js": "^0.6.0"

@@ -1,1 +1,1 @@
-node lib\person.js
+node lib\app.js
