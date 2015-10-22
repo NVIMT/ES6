@@ -1,6 +1,7 @@
 # Compiled source #
 ###################
-lib/
+#ignoring this for now, easier to see the compiled code if this is included
+#lib/
 
 # OS generated files #
 ######################
