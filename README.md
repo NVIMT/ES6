@@ -19,11 +19,17 @@ If npm run compile doesn't work, you can try these steps to run the project:
 
 1. In the root directory, install babel via npm: npm install -g babel
 2. Execute the following command in the root directory to set the source and compiled directories: babel -d lib src
+3. If babel fails, it might just be because those directories don't exist, so create them in the root folder.
 
 If npm run compile runs, you don't have to change anything.
 
+If you are on Windows, you can run the setup.cmd file in the scripts directory.
+
 ## To execute the code:
 
-1. Go to the lib folder.
+You can use either of the following methods to execute it in Node:
 
+1. Go to the lib folder.
 2. Execute: node app.js
+
+If you are on Windows, run the execute.cmd file in the scripts folder.
